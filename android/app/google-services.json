@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "786028151902",
+    "project_id": "cosmos-48f27",
+    "storage_bucket": "cosmos-48f27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786028151902:android:41090118f1a5603f1860cf",
+        "android_client_info": {
+          "package_name": "com.example.firedrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786028151902-9dn18i25n9lkoe1raj9uce2524ohiguu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcPQNBLZzs0mwXTEpwTrbk-J36Ja4lKpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786028151902-9dn18i25n9lkoe1raj9uce2524ohiguu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "786028151902-mtlfmaoqj7ll89d1f150evvpv0674odl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firestorage"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786028151902:android:ca85845c13f07b4c1860cf",
+        "android_client_info": {
+          "package_name": "com.example.firestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786028151902-p490qjdeascdi6adk6po0arsq7rl4hs7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firestorage",
+            "certificate_hash": "4b7ab467454c8596bdf2797b0cd7067f53c6855d"
+          }
+        },
+        {
+          "client_id": "786028151902-9dn18i25n9lkoe1raj9uce2524ohiguu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcPQNBLZzs0mwXTEpwTrbk-J36Ja4lKpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786028151902-9dn18i25n9lkoe1raj9uce2524ohiguu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "786028151902-mtlfmaoqj7ll89d1f150evvpv0674odl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firestorage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

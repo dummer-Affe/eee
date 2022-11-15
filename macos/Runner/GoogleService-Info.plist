@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>786028151902-ksliaog1u5b9vpq35i1ej1bop2ura2g9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.786028151902-ksliaog1u5b9vpq35i1ej1bop2ura2g9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>786028151902-p490qjdeascdi6adk6po0arsq7rl4hs7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCAJkLl1fPGyRUDS-aj_cHOzRw6giKI7rM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>786028151902</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.firedrive</string>
+	<key>PROJECT_ID</key>
+	<string>cosmos-48f27</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cosmos-48f27.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:786028151902:ios:6820fc566442e2291860cf</string>
+</dict>
+</plist>
